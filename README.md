@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @burntking
+- 👋 Hi, I’m @shriyanshk128T
 - 👀 I’m interested in Data Science, Machine Leaning, and AI.
 - 🌱 I’m currently learning a course from coursera.
+- 👨🏾‍💻 I'm a software engineer.
 - 💞️ I’m looking to collaborate on projects developed on python from beginner to expert level.
 
 <!---
